@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tariffsservlet:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67fb769f-3218-4e9a-a69f-d95b28c87c7f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/app-info-2019-03-25.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/servlet/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/app-info.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/tariffs.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/tariffs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/TariffsBuilderFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>basePath</find>
+      <find>dem</find>
+      <find>war</find>
+      <find>twenty</find>
+      <find>allPrices</find>
+      <find>/</find>
+      <find>tariffsservlet</find>
+      <find>traf</find>
+      <find>tra</find>
+      <find>list</find>
+      <find>TariffEnum</find>
+      <find>xsd</find>
+      <find>&quot;*\n</find>
+      <find>gettTariffs</find>
+      <find>CATCH</find>
+      <find>warn</find>
+      <find>getTag</find>
+      <find>protected</find>
+      <find>twentySeconds</find>
+      <find>num</find>
+      <find>Parsed xml document.</find>
+      <find>parse(</find>
+      <find>is</find>
+      <find>TWENTYSE</find>
+      <find>&quot;tariff&quot;</find>
+      <find>setId</find>
+      <find>valueOf</find>
+      <find>InputStream</find>
+      <find>CustomParsingXMLException</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\src\main</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aliakseikarpitski/demowebapp/DemoServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aliakseikarpitski/demoservlet/DemoServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aliakseikarpitski/demoservlet/TariffsServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/demoservlet/TariffsServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/AbstractTariffsBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/exception/CustomParsingXMLException.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/result.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/traffics.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/traffics.xsd" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/simpleTraffics.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/simpleTariffs.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/tariffsservlet/TariffsServlet.java" />
+        <option value="$PROJECT_DIR$/out/artifacts/tariffsservlet/pages/exception.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/parsing.jsp" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser.sax/TariffsSAXBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser/TariffsBuilderTestData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser/dom/TariffsDOMBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser/sax/TariffsSAXBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/Billing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/sax/TariffsHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/TariffEnum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser/stax/TariffsStAXBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/tariffs.xsd" />
+        <option value="$PROJECT_DIR$/src/main/resources/tariffs.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/path/AllPaths.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/filter/DateFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/servlet/ParsingCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/validator/ValidatorSAX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/TariffsBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/dom/TariffsDOMBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/sax/TariffsSAXBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/stax/TariffsStAXBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/filter/DateParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/validator/XMLValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/TariffsBuilderFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/Tariff.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/CallPrices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/Parameters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/SmsPrices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/servlet/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tariffs Servlet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Tariffs Servlet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yanabogdanovich" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yanabogdanovich" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tariffsservlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tariffsservlet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554024742655" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/resources/traffics.xsd" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.epam.yanabogdanovich.parser.stax" />
+      <recent name="com.epam.yanabogdanovich.parser.dom" />
+      <recent name="com.epam.yanabogdanovich.parser.sax" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.yanabogdanovich.parser.sax" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\src\test\java" />
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\src\test\java\com\epam\yanabogdanovich" />
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\out\artifacts\tariffsservlet\pages" />
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\out\artifacts\tariffsservlet\data" />
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\data" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\src\test\java\com\epam\yanabogdanovich\parser.sax" />
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\src\test\java\com\epam\yanabogdanovich" />
+      <recent name="C:\Users\Админ\Desktop\AllJava\tariffsservlet\tariffsservlet\src" />
+      <recent name="C:\__\RD\Classes\2019-03-20P\demoservlet\src\main\webapp" />
+      <recent name="C:\__\RD\Classes\2019-03-20P\demoservlet\src\main\webapp\WEB-INF\jsp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.This tomcat">
+    <configuration name="demoservlet [clean + package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+    <configuration name="demoservlet [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+    <configuration name="TariffsSAXBuilderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tariffsservlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.yanabogdanovich.parser.sax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.yanabogdanovich.parser.sax" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.yanabogdanovich.parser.sax.TariffsSAXBuilderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TariffsSAXBuilderTest.buildTariffs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tariffsservlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.yanabogdanovich.parser.sax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.yanabogdanovich.parser.sax" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.yanabogdanovich.parser.sax.TariffsSAXBuilderTest" />
+      <option name="METHOD_NAME" value="buildTariffs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TariffsStAXBuilderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tariffsservlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.yanabogdanovich.parser.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.yanabogdanovich.parser.stax" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.yanabogdanovich.parser.stax.TariffsStAXBuilderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TariffsStAXBuilderTest.buildTariffs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tariffsservlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.yanabogdanovich.parser.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.yanabogdanovich.parser.stax" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.yanabogdanovich.parser.stax.TariffsStAXBuilderTest" />
+      <option name="METHOD_NAME" value="buildTariffs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.epam.yanabogdanovich.parser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tariffsservlet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.yanabogdanovich.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.yanabogdanovich.parser" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="This tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="12">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="tariffsservlet:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tariffsservlet" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_demoservlet" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61543" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demoservlet:war" />
+          <artifact name="tariffsservlet:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_demoservlet" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61543" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61544" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.demoservlet [clean + package]" />
+      <item itemvalue="Maven.demoservlet [package]" />
+      <item itemvalue="TestNG.TariffsSAXBuilderTest" />
+      <item itemvalue="TestNG.TariffsSAXBuilderTest.buildTariffs" />
+      <item itemvalue="TestNG.com.epam.yanabogdanovich.parser" />
+      <item itemvalue="TestNG.TariffsStAXBuilderTest.buildTariffs" />
+      <item itemvalue="TestNG.TariffsStAXBuilderTest" />
+      <item itemvalue="Tomcat Server.This tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TariffsStAXBuilderTest" />
+        <item itemvalue="TestNG.TariffsStAXBuilderTest.buildTariffs" />
+        <item itemvalue="TestNG.com.epam.yanabogdanovich.parser" />
+        <item itemvalue="TestNG.TariffsSAXBuilderTest.buildTariffs" />
+        <item itemvalue="TestNG.TariffsSAXBuilderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67fb769f-3218-4e9a-a69f-d95b28c87c7f" name="Default Changelist" comment="" />
+      <created>1553028182930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553028182930</updated>
+      <workItem from="1553205330072" duration="1061000" />
+      <workItem from="1553232309716" duration="34000" />
+      <workItem from="1553234083136" duration="1579000" />
+      <workItem from="1553236047692" duration="303000" />
+      <workItem from="1553236458837" duration="7357000" />
+      <workItem from="1553357974304" duration="41256000" />
+      <workItem from="1553510556720" duration="5867000" />
+      <workItem from="1553530342184" duration="11626000" />
+      <workItem from="1553546862385" duration="16935000" />
+      <workItem from="1553585737643" duration="5910000" />
+      <workItem from="1553614029883" duration="12351000" />
+      <workItem from="1553628262256" duration="874000" />
+      <workItem from="1553678044836" duration="272000" />
+      <workItem from="1553878985663" duration="607000" />
+      <workItem from="1554019257401" duration="5538000" />
+      <workItem from="1554025352094" duration="331000" />
+      <workItem from="1554220447223" duration="1974000" />
+      <workItem from="1554831632564" duration="1998000" />
+      <workItem from="1554879044724" duration="3740000" />
+    </task>
+    <task id="LOCAL-00001" summary="begin">
+      <created>1553359245881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553359245882</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add entity">
+      <created>1553363729095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553363729095</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Date">
+      <created>1553365011351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553365011351</updated>
+    </task>
+    <task id="LOCAL-00004" summary="trying add sax(2 errors)">
+      <created>1553379081972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553379081972</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add sax-parser and sax-builder.&#10;Add TariffEnum.&#10;Add Data Format Filter.&#10;In Billing enum add constructor.&#10;(4 warnings)">
+      <created>1553416658077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553416658077</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add toString in entities.&#10;try load sax-parser - fail.&#10;add controller. Should I use service?&#10;adding Parsing command.&#10;(4 errors, 1 warn)">
+      <created>1553420242837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553420242837</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add CustomParsingXMLException.&#10;add ValidatorSAX.&#10;finish ParsingCommand.&#10;(3 warn)">
+      <created>1553430620597</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553430620597</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change Controller.">
+      <created>1553430880850</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553430880850</updated>
+    </task>
+    <task id="LOCAL-00009" summary="traffics rename to tariffs&#10;change localName on qName.&#10;add SaxTest(invalid because tariffName -&gt; TARIFFNAME! Not TARIFF_NAME)&#10;add *.xml for test.&#10;add dependency testng.&#10;(14 warns)">
+      <created>1553534573260</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553534573260</updated>
+    </task>
+    <task id="LOCAL-00010" summary="sax-test is work.&#10;xml and xsd changed.&#10;(5 warns)">
+      <created>1553541918918</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553541918918</updated>
+    </task>
+    <task id="LOCAL-00011" summary="in TariffEnum added ID.&#10;ParsingCommand now is work! &quot;-&quot; upload.&#10;Deleted using exception, but class is exist.&#10;Found some errors in output in WEB, but do not fixed.&#10;(7 warns)">
+      <created>1553556232564</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553556232564</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed CapsLock in Billing.&#10;Added DOM(without test). DOM work well.&#10;Changed parsing.jsp. Good output.&#10;(3 warns)">
+      <created>1553562743398</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1553562743398</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed little things, deleted comments.&#10;(1 warn)">
+      <created>1553564400664</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553564400664</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Changed InputStream on String.&#10;Deleted unneeded things.&#10;(1 warn)">
+      <created>1553588988007</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553588988007</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added StAX with test.&#10;Set ID.&#10;(3 warn)">
+      <created>1553624221588</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553624221588</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added all 16 elements to *.xml.&#10;Finish!">
+      <created>1553626793103</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1553626793103</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Deleted unneeded classes.">
+      <created>1553629094553</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1553629094553</updated>
+    </task>
+    <task id="LOCAL-00018" summary="After checking! Changed names of classes. &#10;Changed {@code equals}.">
+      <created>1554024786192</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554024786193</updated>
+    </task>
+    <task id="LOCAL-00019" summary="After checking! Changed names of classes. &#10;Changed {@code equals}.">
+      <created>1554883544070</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554883544070</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TariffsStAXBuilderTest_buildTariffs - 2019.03.26 at 20h 03m 31s.xml">
+      <configuration name="TariffsStAXBuilderTest.buildTariffs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest_buildTariffs - 2019.03.26 at 20h 08m 30s.xml">
+      <configuration name="TariffsStAXBuilderTest.buildTariffs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest - 2019.03.26 at 20h 09m 34s.xml">
+      <configuration name="TariffsStAXBuilderTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest_buildTariffs - 2019.03.26 at 20h 09m 35s.xml">
+      <configuration name="TariffsStAXBuilderTest.buildTariffs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest - 2019.03.26 at 20h 10m 41s.xml">
+      <configuration name="TariffsStAXBuilderTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest_buildTariffs - 2019.03.26 at 20h 11m 40s.xml">
+      <configuration name="TariffsStAXBuilderTest.buildTariffs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest_buildTariffs - 2019.03.26 at 20h 15m 53s.xml">
+      <configuration name="TariffsStAXBuilderTest.buildTariffs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest_buildTariffs - 2019.03.26 at 20h 32m 18s.xml">
+      <configuration name="TariffsStAXBuilderTest.buildTariffs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest_buildTariffs - 2019.03.26 at 20h 47m 18s.xml">
+      <configuration name="TariffsStAXBuilderTest.buildTariffs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TariffsStAXBuilderTest - 2019.03.26 at 20h 47m 32s.xml">
+      <configuration name="TariffsStAXBuilderTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119613000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.34228188" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" weight="0.25567323" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32668713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.10130719" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5408805" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31699347" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.19478528" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.3297546" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.022692889" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add sax-parser and sax-builder.&#10;Add TariffEnum.&#10;Add Data Format Filter.&#10;In Billing enum add constructor" />
+    <MESSAGE value="Add sax-parser and sax-builder.&#10;Add TariffEnum.&#10;Add Data Format Filter.&#10;In Billing enum add constructor.&#10;(4 warnings)" />
+    <MESSAGE value="add toString in entities.&#10;try load sax-parser - fail.&#10;add controller. Should I use service?&#10;adding Parsing command." />
+    <MESSAGE value="add toString in entities.&#10;try load sax-parser - fail.&#10;add controller. Should I use service?&#10;adding Parsing command.&#10;(4 errors, 1 warn)" />
+    <MESSAGE value="add CustomParsingXMLException.&#10;add ValidatorSAX.&#10;finish ParsingCommand." />
+    <MESSAGE value="add CustomParsingXMLException.&#10;add ValidatorSAX.&#10;finish ParsingCommand.&#10;(3 warn)" />
+    <MESSAGE value="change Controller." />
+    <MESSAGE value="traffics rename to tariffs&#10;change localName on qName.&#10;add SaxTest(invalid because tariffName -&gt; TARIFFNAME! Not TARIFF_NAME)&#10;add *.xml for test.&#10;add dependency testng." />
+    <MESSAGE value="traffics rename to tariffs&#10;change localName on qName.&#10;add SaxTest(invalid because tariffName -&gt; TARIFFNAME! Not TARIFF_NAME)&#10;add *.xml for test.&#10;add dependency testng.&#10;(14 warns)" />
+    <MESSAGE value="sax-test is work.&#10;xml and xsd changed." />
+    <MESSAGE value="sax-test is work.&#10;xml and xsd changed.&#10;(5 warns)" />
+    <MESSAGE value="in TariffEnum added ID.&#10;ParsingCommand now is work! &quot;-&quot; upload.&#10;Deleted using exception, but class is exist.&#10;Found some errors in output in WEB, but do not fixed" />
+    <MESSAGE value="in TariffEnum added ID.&#10;ParsingCommand now is work! &quot;-&quot; upload.&#10;Deleted using exception, but class is exist.&#10;Found some errors in output in WEB, but do not fixed.&#10;(7 warns)" />
+    <MESSAGE value="Fixed CapsLock in Billing.&#10;Added DOM(without test). DOM work well.&#10;Changed parsing.jsp. Good output." />
+    <MESSAGE value="Fixed CapsLock in Billing.&#10;Added DOM(without test). DOM work well.&#10;Changed parsing.jsp. Good output.&#10;(3 warns)" />
+    <MESSAGE value="Changed interface of output.&#10;Fixed wrong output in DOM." />
+    <MESSAGE value="Fixed little things, deleted comments." />
+    <MESSAGE value="Fixed little things, deleted comments.&#10;(1 warn)" />
+    <MESSAGE value="Changed InputStream on String.&#10;Deleted unneeded things." />
+    <MESSAGE value="Changed InputStream on String.&#10;Deleted unneeded things.&#10;(1 warn)" />
+    <MESSAGE value="Added StAX with test.&#10;Set ID.&#10;(1 warn)" />
+    <MESSAGE value="Added StAX with test.&#10;Set ID.&#10;(3 warn)" />
+    <MESSAGE value="Added all 16 elements to *.xml.&#10;Finish!" />
+    <MESSAGE value="Deleted unneeded classes." />
+    <MESSAGE value="After checking! Changed names of classes. &#10;Changed {@code equals}." />
+    <option name="LAST_COMMIT_MESSAGE" value="After checking! Changed names of classes. &#10;Changed {@code equals}." />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>new FileInputStream(FILE_NAME)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar!/org/apache/logging/log4j/spi/AbstractLogger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="2057" selection-start-line="2057" selection-end-line="2057" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/io/Reader.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/io/StringReader.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="454" selection-start-line="454" selection-end-line="454" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLDocumentScannerImpl.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/jre/lib/rt.jar!/com/sun/xml/internal/stream/StaxErrorReporter.class" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLScanner.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLDocumentFragmentScannerImpl.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLNSDocumentScannerImpl.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLStreamReaderImpl.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xerces/internal/util/XMLChar.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLEntityScanner.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/path/AllPaths.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/exception/CustomParsingXMLException.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/annotation/Retention.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/annotation/MultipartConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/RequestDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/xml/parsers/DocumentBuilderFactory.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/xml/parsers/DocumentBuilder.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/javax/xml/stream/XMLStreamReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser/stax/TariffsStAXBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser/TariffsBuilderTestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/yanabogdanovich/parser/sax/TariffsSAXBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/simpleTariffs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/parsing.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/TariffsBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/sax/TariffsSAXBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/sax/TariffsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/filter/DateParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/dom/TariffsDOMBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/CallPrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/SmsPrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/stax/TariffsStAXBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/servlet/ParsingCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/validator/XMLValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/Tariff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="106" column="54" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/TariffEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/entity/Billing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/parser/TariffsBuilderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/app-info-2019-03-25.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/app-info.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tariffs.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tariffs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/yanabogdanovich/servlet/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
